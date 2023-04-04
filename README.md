@@ -13,12 +13,12 @@
 ## ⚙️ Instalação
 ```
 # Abra um terminal e copie este repositório com o comando
-$ git clone https://github.com/Elias-Ainsworth/Desafio-UploadImages.git
+$ git clone https://github.com/Elias-Ainsworth/Projeto-UploadImages.git
 ```
 
 ```
 # Acesse a pasta da aplicação
-$ cd Desafio-UploadImages
+$ cd Projeto-UploadImages
 # Instale as dependências
 $ yarn
 # Inicie a aplicação
